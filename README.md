@@ -1,6 +1,6 @@
 ## 프로젝트 소개
 
-[블로그 정리글](https://jhan117.github.io/react/)
+[블로그 정리글](https://jhan117.github.io/react/react-learn7/)
 
 ## 핵심 기능
 
