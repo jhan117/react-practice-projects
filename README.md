@@ -22,7 +22,7 @@
 
 ### React.memo
 
-```js
+```javascript
 import { memo } from "react";
 
 export default memo(DemoOutput);
@@ -36,7 +36,7 @@ React.memo가 얕은 비교만을 수행하기 때문에 함수나 배열, 객�
 
 ### useCallback
 
-```js
+```javascript
 const memoizedCallback = useCallback(() => {
   doSomething(a, b);
 }, [a, b]);
@@ -46,7 +46,7 @@ const memoizedCallback = useCallback(() => {
 
 ### useMemo
 
-```js
+```javascript
 const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
 ```
 
