@@ -32,14 +32,14 @@ function App() {
 
   let content = <p>Found no movies.</p>;
 
-  if (isLoading) {
-    content = <p>Loading...</p>;
+  if (movies.length > 0) {
+    content = <MoviesList movies={movies} />;
   }
   if (error) {
     content = <p>{error}</p>;
   }
-  if (movies.length > 0) {
-    content = <MoviesList movies={movies} />;
+  if (isLoading) {
+    content = <p>Loading...</p>;
   }
 
   return (
