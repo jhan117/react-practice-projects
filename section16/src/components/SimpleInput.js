@@ -20,7 +20,6 @@ const SimpleInput = (props) => {
   } = useInput((value) => value.includes("@"));
 
   let fromIsValid = false;
-
   if (enteredNameIsValid && enteredEmailIsValid) {
     fromIsValid = true;
   }
