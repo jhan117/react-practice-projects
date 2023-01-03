@@ -18,4 +18,4 @@ react router의 v5, v6을 사용해보며 경로를 학습하는 과정이다.
 
 react-router v6는 프로젝트를 구축하지 않고 블로그에 정리해놨다.
 
-[블로그에 중요한 개념을 정리해놨습니다](https://jhan117.github.io/react/react-learn/)
+[블로그에 중요한 개념을 정리해놨습니다](https://jhan117.github.io/react/react-learn15/)
