@@ -2,6 +2,8 @@ import { useRef, useEffect } from "react";
 
 import classes from "./NewCommentForm.module.css";
 
+import LoadingSpinner from "../UI/LoadingSpinner";
+
 import useHttp from "../../hooks/use-http";
 import { addComment } from "../../lib/api";
 
@@ -30,7 +32,11 @@ const NewCommentForm = (props) => {
 
   return (
     <form className={classes.form} onSubmit={submitFormHandler}>
-      {status === "pending" && <div className=""></div>}
+      {status === "pending" && (
+        <div className="centered">
+          <LoadingSpinner />
+        </div>
+      )}
       <div className={classes.control} onSubmit={submitFormHandler}>
         <label htmlFor="comment">Your Comment</label>
         <textarea id="comment" rows="5" ref={commentTextRef}></textarea>
