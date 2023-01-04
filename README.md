@@ -25,4 +25,4 @@ NextJs와 Vercel, MongoDB 이용해보기
 
 [bigger-project 배포 사이트](https://react-practice-projects-o2cc9xuur-jhan117.vercel.app/)
 
-[블로그에 중요한 개념을 정리해놨습니다](https://jhan117.github.io/react/react-learn/)
+[블로그에 중요한 개념을 정리해놨습니다](https://jhan117.github.io/react/react-learn18/)
