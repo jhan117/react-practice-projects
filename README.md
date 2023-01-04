@@ -15,3 +15,5 @@ Branches에서 다양한 프로젝트 목록을 볼 수 있습니다. 링크 이
 - [Redux를 사용하여 상태 관리 해보기-section18](https://github.com/jhan117/react-practice-projects/tree/section18)
 - [Redux와 함께 비동기 처리하는 법 배우기-section19](https://github.com/jhan117/react-practice-projects/tree/section19)
 - [react router 사용하여 다중 페이지 구현하기-section20](https://github.com/jhan117/react-practice-projects/tree/section20)
+- [React에서 Authentication 사용하기-section22](https://github.com/jhan117/react-practice-projects/tree/section22)
+- [NextJs와 Vercel, MongoDB 이용해보기-section23](https://github.com/jhan117/react-practice-projects/tree/section23)
