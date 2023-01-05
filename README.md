@@ -17,3 +17,5 @@ Branches에서 다양한 프로젝트 목록을 볼 수 있습니다. 링크 이
 - [react router 사용하여 다중 페이지 구현하기-section20](https://github.com/jhan117/react-practice-projects/tree/section20)
 - [React에서 Authentication 사용하기-section22](https://github.com/jhan117/react-practice-projects/tree/section22)
 - [NextJs와 Vercel, MongoDB 이용해보기-section23](https://github.com/jhan117/react-practice-projects/tree/section23)
+- [React 애니메이션-section24](https://github.com/jhan117/react-practice-projects/tree/section24)
+- [Context, Custom Hook으로 Redux 대체-section25](https://github.com/jhan117/react-practice-projects/tree/section25)
