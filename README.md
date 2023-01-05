@@ -1,13 +1,13 @@
 ## 프로젝트 소개
 
-NextJs와 Vercel, MongoDB 이용해보기
+NextJs와 Vercel, MongoDB 이용해 보기
 
 ## 사용한 개념
 
 - NextJS 프로젝트를 시작할 수 있고 React 컴포넌트와 혼용할 수 있다.
 - `useRouter()`를 이용하여 query 값을 가져오고 경로를 변경할 수 있다.
 - `Link`를 이용하여 연결할 수 있다.
-- 데이터를 사전 렌더링 두 가지 형태를 이용해 Fetch할 수 있다.
+- 데이터를 사전 렌더링 두 가지 형태를 이용해 Fetch 할 수 있다.
   - SSG는 요청 객체에 접근할 필요가 없고 자주 변경되는 데이터가 아니라면 사용하는 것을 추천한다.
   - SSG : `getStaticProps()`를 사용할 수 있다. params를 사용하는 경우에는 `getStaticPaths()`를 사용하여 해결할 수 있다.
   - SSR은 데이터가 자주 변경된다면 사용하는 것을 추천한다.
