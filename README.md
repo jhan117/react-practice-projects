@@ -19,3 +19,4 @@ Branches에서 다양한 프로젝트 목록을 볼 수 있습니다. 링크 이
 - [NextJs와 Vercel, MongoDB 이용해보기-section23](https://github.com/jhan117/react-practice-projects/tree/section23)
 - [React 애니메이션-section24](https://github.com/jhan117/react-practice-projects/tree/section24)
 - [Context, Custom Hook으로 Redux 대체-section25](https://github.com/jhan117/react-practice-projects/tree/section25)
+- [테스트 코드 작성해 보기-section26](https://github.com/jhan117/react-practice-projects/tree/section26)
