@@ -4,7 +4,7 @@ HTTP 요청 보내기
 
 데이터베이스에 접근하기 위해서 API에 HTTP 요청을 보내는 법을 학습하기 위한 과정이다.
 
-[블로그 정리글](https://jhan117.github.io/react/react-learn10/)
+[블로그 정리글](https://github.com/jhan117/react-practice-projects/blob/main/study-notes/2022-12-29-react-learn10.md)
 
 ## 핵심 기능
 
