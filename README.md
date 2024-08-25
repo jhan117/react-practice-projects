@@ -11,4 +11,4 @@
     - 과다 요청, POST 요청의 경우 데이터 저장됨 문제 등.
 - `describe()`를 이용해 그룹화할 수 있다.
 
-[블로그에 중요한 개념을 정리해놨습니다](https://jhan117.github.io/react/react-learn21/)
+[블로그에 중요한 개념을 정리해놨습니다](https://github.com/jhan117/react-practice-projects/blob/main/study-notes/2023-01-06-react-learn21.md)
