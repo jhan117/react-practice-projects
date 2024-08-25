@@ -4,7 +4,7 @@
 
 지금까지 배운 내용을 적용해보는 실습 시간이다.
 
-[블로그 정리글](https://jhan117.github.io/react/react-learn4/)
+[블로그 정리글](https://github.com/jhan117/react-practice-projects/blob/main/study-notes/2022-12-26-react-learn4.md)
 
 ## 핵심 기능
 
