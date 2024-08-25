@@ -4,7 +4,7 @@
 
 Effects, Reducers, Context를 학습하기 위한 과정이다.
 
-[블로그 정리글](https://jhan117.github.io/react/react-learn6/)
+[블로그 정리글](https://github.com/jhan117/react-practice-projects/blob/main/study-notes/2022-12-26-react-learn6.md)
 
 ## 핵심 기능
 
