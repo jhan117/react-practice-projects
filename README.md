@@ -4,7 +4,7 @@ section8보다 깔끔하게 작성하기
 
 Fragments, Portals, Refs를 학습하기 위한 과정이었다.
 
-[블로그 정리글](https://jhan117.github.io/react/react-learn5/)
+[블로그 정리글](https://github.com/jhan117/react-practice-projects/blob/main/study-notes/2022-12-26-react-learn5.md)
 
 ## 핵심 기능
 
