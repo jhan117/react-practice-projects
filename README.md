@@ -10,4 +10,4 @@ Context, Custom Hook으로 Redux 대체
   - 여러 개 슬라이스로 나누어 구현할 수 있다.
   - 리스트 중 하나의 상태가 업데이트되면 전부 호출되는 문제를 해결하여 최적화를 할 수 있다.
 
-[블로그에 중요한 개념을 정리해놨습니다](https://jhan117.github.io/react/react-learn20/)
+[블로그에 중요한 개념을 정리해놨습니다](https://github.com/jhan117/react-practice-projects/blob/main/study-notes/2023-01-05-react-learn20.md)
