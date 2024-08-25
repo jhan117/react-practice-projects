@@ -17,4 +17,4 @@ Redux를 React에서 사용해보고 Toolkit도 사용해보는 과정이다.
   `createSlice` 함수를 이용해 조각을 만들고 `configureStore` 함수를 이용해 다수의 reducer 함수를 알아서 합치게 사용할 수 있다.
 - 만약 payload를 전달하고 싶은 경우 action 객체에 추가하여 해결할 수 있다
 
-[블로그에 중요한 개념을 정리해놨습니다](https://jhan117.github.io/react/react-learn13/)
+[블로그에 중요한 개념을 정리해놨습니다](https://github.com/jhan117/react-practice-projects/blob/main/study-notes/2023-01-02-react-learn13.md)
