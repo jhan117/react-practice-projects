@@ -14,4 +14,4 @@ React 애니메이션
   - React Move: 복잡한 애니메이션에 유용
   - React Router Transition: 페이지 전환 간에 유용
 
-[블로그에 중요한 개념을 정리해놨습니다](https://jhan117.github.io/react/react-learn19/)
+[블로그에 중요한 개념을 정리해놨습니다](https://github.com/jhan117/react-practice-projects/blob/main/study-notes/2023-01-05-react-learn19.md)
