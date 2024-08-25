@@ -4,7 +4,7 @@
 
 `memo()`, `useCallback()`, `useMemo()`를 학습하기 위한 과정이다.
 
-[블로그 정리글](https://jhan117.github.io/react/react-learn8/)
+[블로그 정리글](https://github.com/jhan117/react-practice-projects/blob/main/study-notes/2022-12-28-react-learn8.md)
 
 ## 핵심 기능
 
