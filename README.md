@@ -4,7 +4,7 @@
 
 지금까지 배운 것을 사용해보기 위한 과정이다.
 
-[블로그 정리글](https://jhan117.github.io/react/react-learn7/)
+[블로그 정리글](https://github.com/jhan117/react-practice-projects/blob/main/study-notes/2022-12-27-react-learn7.md)
 
 ## 핵심 기능
 
